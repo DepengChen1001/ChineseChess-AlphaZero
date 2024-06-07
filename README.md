@@ -1,4 +1,4 @@
-# 中国象棋Zero（CCZero）
+# Chinese Chess Zero ----using AlphaZero to implement Chinese Chess
 
 <a href="https://cczero.org">
   <img src="https://cczero.org/zero2.png" alt="App Icon" />
